@@ -10,6 +10,6 @@ We provide two versions of simple clock application. The first one is a bit simp
  
 Clock applications we consider:
 
-![clock v1](./doc/clock-v1.png =202x225)
+<img src="https://github.com/AlbertHambardzumyan/clock/blob/master/doc/clock-v1.png" height="202" width="225">
 
-![clock v2](./doc/clock-v2.png =202x221)
+<img src="https://github.com/AlbertHambardzumyan/clock/blob/master/doc/clock-v2.png" height="202" width="221">
